@@ -23,10 +23,6 @@ source "$PROPS_FILE"
 echo "PATH_TO_OBSIDIAN_VAULT='$PATH_TO_OBSIDIAN_VAULT'"
 echo "PATH_TO_BACKUP_FOLDER='$PATH_TO_BACKUP_FOLDER'"
 
-# TODO Remove
-echo $PATH_TO_ENCRYPTION_KEY
-echo $KEY_GDRIVE
-
 
 ### Find vault location
 
